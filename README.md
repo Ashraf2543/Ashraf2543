@@ -1,56 +1,58 @@
 <h1 align="center">Hi 👋, I'm Ashraf Jamal</h1>
-<h3 align="center">A passionate Cloud Computing enthusiast from Dehradun, India</h3>
+<h3 align="center">🚀 Cloud Computing | DevOps | Python | Linux</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Ashraf2543&label=Profile%20views&color=0e75b6&style=flat" alt="Ashraf2543" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashraf-jamal-b3955b256">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://leetcode.com/u/Ashraf_2534/">
+    <img src="https://img.shields.io/badge/LeetCode-Practice-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Ashraf2543&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-- 🎓 I’m currently a 3rd Year B.Tech CSE student specializing in **Cloud Computing** at **UPES Dehradun**
+---
 
-- 🌱 I’m currently learning **DevOps, Python, and Web Development**
+🧑‍🎓 I’m currently a **3rd Year B.Tech CSE student** specializing in **Cloud Computing** at **UPES, Dehradun**
 
-- 💬 Ask me about **Cloud Computing, DevOps, and Python**
+🧠 Currently learning: **DevOps, Python, and Web Development**
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ashraf-jamal-b3955b256)
+💬 Ask me about: **Cloud Computing, DevOps, Python**
 
-- ⚡ Fun fact: I enjoy exploring new technologies and solving challenging problems
+📫 Reach me via: [LinkedIn](https://www.linkedin.com/in/ashraf-jamal-b3955b256)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ashraf-jamal-b3955b256" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="ashraf-jamal" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/Ashraf_2534/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" alt="Ashraf_2534" height="30" width="40" />
-  </a>
+✨ Fun fact: I enjoy exploring new technologies and solving real-world problems
+
+---
+
+### 🧰 Skills
+
+- Cloud Computing (AWS basics, VMs, Load Balancers)
+- DevOps Tools (CI/CD fundamentals)
+- Linux & Shell Scripting
+- Python Programming
+- Frontend Basics (HTML, CSS, JavaScript)
+- Version Control using Git
+
+---
+
+### 🧪 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashraf2543&show_icons=true&locale=en&layout=compact" alt="Ashraf's Languages" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashraf2543&show_icons=true&locale=en" alt="Ashraf's Stats" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashraf2543&" alt="Ashraf's Contribution Streak" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-</p>
-
-<br/>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashraf2543&show_icons=true&locale=en&layout=compact" alt="Ashraf2543" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashraf2543&show_icons=true&locale=en" alt="Ashraf2543" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashraf2543&" alt="Ashraf2543" /></p>
