@@ -13,7 +13,7 @@
 
 ---
 
-🧑‍🎓 I’m currently a **3rd Year B.Tech CSE student** specializing in **Cloud Computing** at **UPES, Dehradun**
+🧑‍🎓 I’m currently a **4th Year B.Tech CSE student** specializing in **Cloud Computing** at **UPES, Dehradun**
 
 🧠 Currently learning: **DevOps, Python, and Web Development**
 
