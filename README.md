@@ -15,7 +15,7 @@
 
 🧑‍🎓 I’m currently a **4th Year B.Tech CSE student** specializing in **Cloud Computing** at **UPES, Dehradun**
 
-🧠 Currently learning: **DevOps, Python, and Web Development**
+🧠 Currently learning: **DevOps, Data Structures, Web Development, and C++**
 
 💬 Ask me about: **Cloud Computing, DevOps, Python**
 
