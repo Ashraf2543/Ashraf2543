@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashraf Jamal</h1>
-<h3 align="center">🚀 Cloud Computing | DevOps | Python | Linux</h3>
+<h3 align="center">🚀 Cloud Computing | Data Structures | Python | Linux</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ashraf-jamal-b3955b256">
